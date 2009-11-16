@@ -1,0 +1,9 @@
+Countr is a web 2.0 AJAX-driven web application that allows you to count anything.
+
+To run the website, you will need to create a file config.php, with contents like so:
+
+<?
+$CONFIG = array('host' => 'localhost', 'username' => 'countr', 'password' => 'oranges', 'database' => 'countr');
+?>
+
+Modify the details to suit your MySQL database details, then run web/buzz.sql in your database.
