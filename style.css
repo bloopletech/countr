@@ -1,0 +1,38 @@
+body { font-family: Verdana, "Trebuchet MS", Helvicita, Arial, sans-serif; background-color: #ffffff; color: #000000;
+ background-image: url(images/back.png); }
+
+h2 { text-align: center; margin-bottom: 1em; }
+h2 input { font-size: 100%; display: none; }
+
+#id { display: none; }
+
+.header {  }
+
+.alpha { padding-bottom: 10px; z-index: 5; }
+
+form { margin: 0; padding: 0; }
+
+.mast { font-size: 105%; margin-top: 0px; }
+.mainbody { padding-left: 1em; padding-right: 1em; }
+
+.footer { display: block; background-color: #ffffaa; padding: 3px; }
+
+img { border: 0px; }
+
+#counttable { background-color: #ffffff; margin-bottom: 1em; }
+#counttable td { padding: 0.2em 0.3em; }
+#counttable thead td { font-weight: bold; }
+
+#countbodywrap { margin-left: auto; margin-right: auto; }
+
+.clear { clear: both; }
+.lfloat { float: left; }
+.rfloat { float: right; }
+
+.hidden { display: none; }
+
+#buttons-wrap { margin-bottom: 1.5em; margin-left: auto; margin-right: auto; }
+
+#bumpbutton { font-size: 120%; height: 2em; }
+
+#switchbar { border-top: 1px solid #808080; }
